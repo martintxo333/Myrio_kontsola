@@ -98,6 +98,8 @@ A main menu allows the user to choose and replay games as many times as desired.
    ```bash
    python Myrio_martin.py
 
+---
+
 ## Academic Purpose
 This project was developed as an original work to demonstrate understanding of:
 
@@ -107,6 +109,14 @@ This project was developed as an original work to demonstrate understanding of:
 - Sensor data handling
 - User-oriented program design
 - 
+---
+
 ## Author
-Martin Maiz Negred
-It is intended to be evaluated by the professors of the Industrial Informatics course at EHU.
+Martin Maiz Negredo
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for license rights and limitations.
